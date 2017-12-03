@@ -1,0 +1,16 @@
+Python ve decorator... Nedir, ne işe yarar?
+
+Python dilindeki decorator'ları anlamadan önce, fonksiyonların Python dilinde "first class citizen" olduklarını
+bilmek gerekir. "first class citizen" birebir çevirildiğinde, birinci sınıf vatandaş demek.
+Programlama dilleriyle ilgili kullanıldığında bu deyim, o dildeki bir varlığın, şu özellikleri taşıdığı
+anlamına gelir;
+
+Çalışma anında oluşturulabilir.
+Parametre olarak geçirilebilir.
+Fonksiyonlardan döndürülebilir.
+Bir değişkene atanabilir.
+    Python'da fonksiyonların birinci sınıf objeler olduğunu anlamak o kadar da zor değil. Python'daki her şey gibi,
+fonksiyonlar da birer obje. Ve biz, objelerin yukarıdaki tüm özellikleri taşıdıklarını biliyoruz. Dolayısıyla,
+fonksiyonlar da bu özellikleri taşıyor.
+    Pythondaki objelerin bir diğer özelliği de, diğer fonksiyonlar içerisinde tanımlanabilmeleri. Örneğin, aşağıdaki
+kod Python dilinde tamamen normal bir koddur.

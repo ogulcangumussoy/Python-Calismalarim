@@ -1,0 +1,10 @@
+<li data-table-homepage-key="USD" data-table-homepage-type="C">
+                    <div class="column2-row1">
+                        <a href="//kur.doviz.com/serbest-piyasa/amerikan-dolari" onclick="trackEvent(this, 'Ana Sayfa', 'Döviz', 'USD'); ">
+                            <span class="flag flag-USD"></span>USD
+                        </a>
+                    </div>
+                    <div class="arrow-row"><span class="arrow-up"></span></div>
+                    <div class="column2-row2">3,9642</div>
+                    <div class="column2-row2">3,9660</div>
+                </li>

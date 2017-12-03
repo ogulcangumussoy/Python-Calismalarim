@@ -1,0 +1,29 @@
+Fernado Muslera,Galatasaray
+Mariano,Galatasaray
+Serdar Aziz,Galatasaray
+Maicon,Galatasaray
+Latovlevici,Galatasaray
+Fernando Reges,Galatasaray
+Ndiaye,Galatasaray
+Belhanda,Galatasaray
+Tolga Ciğerci,Galatasaray
+Garry Rodrigues,Galatasaray
+Bafetimbi Gomis,Galatasaray
+Volkan Demirel,Fenerbahçe
+Isla,Fenerbahçe
+Roman Neudstadler,Fenerbahçe
+Martin Skertel,Fenerbahçe
+İsmail Köybaşı,Fenerbahçe
+Ozan Tufan,Fenerbahçe
+Valbuena,Fenerbahçe
+Roberto Soldado,Fenerbahçe
+Fabri,Beşiktaş
+Gökhan Gönül,Beşiktaş
+Pepe,Beşiktaş
+Dusko Tosic,Beşiktaş
+Adriano,Beşiktaş
+Atiba,Beşiktaş
+Oğuzhan Özyakup,Beşiktaş
+Ryan Babel,Beşiktaş
+Ricardo Quaresma,Beşiktaş
+Cenk Tosun,Beşiktaş

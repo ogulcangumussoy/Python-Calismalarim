@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Nesne-Tabanli-Programlama/Uygulama/alt_ornekler/ornek_class.py" line="4" mnemonic="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c882a4d6-8246-4edc-b9e4-7951bd38ce26" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Pıllow-Modulu-Resim-Islemleri/ataturk.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Pıllow-Modulu-Resim-Islemleri/kus.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-Kullanici-Kayit/database.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-doviz/borsa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-mail/gmail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/Python.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje1-Os-Modulu/dosya_bul.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje2-Mail-Gonder/mail_gonder.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje2-Mail-Gonder/mailler.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje3-Doviz/cop" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje3-Doviz/doviz_request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/DateTime-Modulu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Os-Modulu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Pıllow-Modulu-Resim-Islemleri/pillow-Modulu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Request-beautifulSoup-Modulu/imdb_top250.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Request-beautifulSoup-Modulu/json-dovizuygulamasi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Request-beautifulSoup-Modulu/request-beautifulSoup-Modulu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Smtp-Modulu-Mail-Gonderme/Mail-Gonderme.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Sys-Modulu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/sys-argv-ornek.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem1/problem1-harf-frekans.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem1/tekrar-problem1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem2/problem2-bas-harfler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem2/siir.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem2/tekrar-problem2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem3/mailler.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem3/problem3-mail.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem3/tekrar-problem3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem4/problem4-isim-soyisim.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem4/tekrar-problem4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem5/islem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem5/sayilar.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Ornekler/dosya_islemleri_ornegi/dosya_islemleri.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Ornekler/dosya_islemleri_ornegi/metin.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Ornekler/tekrar-dosya_islemleri_ornegi/dosya_islemleri.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Ornekler/tekrar-dosya_islemleri_ornegi/metin.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Uygulama/Ileri-Seviye-Sayilar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Uygulama/ileri-seviye-kumeler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Uygulama/ileri-seviye-listeler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Uygulama/ileri-seviye-stringler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator-ve-Generatorler/Odevler/problem1-kareler.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator-ve-Generatorler/Odevler/problem2-asal-generator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator-ve-Generatorler/Ornekler/ornek-generator-kullanim.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator-ve-Generatorler/Ornekler/ornek-iterator-kullanim.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator-ve-Generatorler/Uygulama/Generator/Generator-carpim-tablosu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator-ve-Generatorler/Uygulama/Generator/Generator-list-comprehension-kullanarak.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator-ve-Generatorler/Uygulama/Generator/Generator-olusturulmasi-kullanilmasi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator-ve-Generatorler/Uygulama/Iterator/iterator-ornek.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator-ve-Generatorler/Uygulama/Iterator/ıteratorlerin-olusturulmasi-kullanilmasi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-Kullanici-Kayit/kullanici_kayit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-doviz/doviz-hesaplama.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-fotograf-kirpma/fotograf-kirpma.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-imdb/imdb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-imdb/imdb2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-mail/mail.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders1-pencere-olusturma.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders10-Menu -Olusturma.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders2-pencereye-yazi-resim-ekleme.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders3-buton-olusturma.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders4-horizantal-ve-Vertical-Box-Layout-Olusturma.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders5-Butonlara-Fonksiyonel-Ozellik-Kazandirma.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders6-Qlinedit-olusturma-Input-Alanlari.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders7-Checkbox-Kullanimi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders7-Kullanici-Girisi/kullanici_girisi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders8-RadioButton-kullanimi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders9-TextEdit-Kullanimi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/notepad.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/yedek.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sqlite-Veritabani/Odevler/proje2-sarki/proje_deneme.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sqlite-Veritabani/Odevler/proje2-sarki/sarki.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sqlite-Veritabani/Ornekler/Kutuphane-Otomasyonu/kutuphane.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sqlite-Veritabani/Ornekler/Kutuphane-Otomasyonu/proje_deneme.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sqlite-Veritabani/Ornekler/Kutuphane-Otomasyonu/tekrar/kutuphane.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sqlite-Veritabani/Uygulama/sqlite-tablo-olusturma.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sqlite-Veritabani/Uygulama/sqlite-tablo-veri-cekme.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sqlite-Veritabani/Uygulama/sqlite-tablo-veri-ekleme.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sqlite-Veritabani/Uygulama/sqlite-tablo-veri-guncelleme-silme.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sqlite-Veritabani/Uygulama/veritabani/veritabani-olusturma.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bos.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonksiyonlarin-ileri-seviye-ozellikleri-decoratorler/Odevler/arastirma-decorator-kullanim-alanlari" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonksiyonlarin-ileri-seviye-ozellikleri-decoratorler/Odevler/odev-asal-decorator-mukemmel-sayi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonksiyonlarin-ileri-seviye-ozellikleri-decoratorler/Ornekler/decorator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonksiyonlarin-ileri-seviye-ozellikleri-decoratorler/Uygulama/Fonksiyon-parametreleri-args-kwargs/ornek1-args.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonksiyonlarin-ileri-seviye-ozellikleri-decoratorler/Uygulama/Fonksiyon-parametreleri-args-kwargs/ornek2-args-ve-parametre.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonksiyonlarin-ileri-seviye-ozellikleri-decoratorler/Uygulama/Fonksiyon-parametreleri-args-kwargs/ornek3-kwargs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonksiyonlarin-ileri-seviye-ozellikleri-decoratorler/Uygulama/Fonksiyon-parametreleri-args-kwargs/ornek4-kwargs-items.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonksiyonlarin-ileri-seviye-ozellikleri-decoratorler/Uygulama/Fonksiyon-parametreleri-args-kwargs/ornek5-args-kwargs-birlikte.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonksiyonlarin-ileri-seviye-ozellikleri-decoratorler/Uygulama/Fonksiyonlari-donmek-ve-parametre-olarak-gondermek/bir-fonksiyonu-digerine-parametre-olarak-gondermek.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonksiyonlarin-ileri-seviye-ozellikleri-decoratorler/Uygulama/Fonksiyonlari-donmek-ve-parametre-olarak-gondermek/decorator-fonksiyon-olusturulmasi-kullanilmasi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonksiyonlarin-ileri-seviye-ozellikleri-decoratorler/Uygulama/Fonksiyonlari-donmek-ve-parametre-olarak-gondermek/ic-fonksiyonlara-erismek.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonksiyonlarin-ileri-seviye-ozellikleri-decoratorler/Uygulama/İc-ice-fonksiyonlar/ornek1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonksiyonlarin-ileri-seviye-ozellikleri-decoratorler/Uygulama/İc-ice-fonksiyonlar/ornek2-args.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Kodlama Egzersizleri.iml" afterPath="$PROJECT_DIR$/.idea/Kodlama Egzersizleri.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>note</find>
+      <find>kitap</find>
+      <find>smpt</find>
+      <find>QtGui</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>QtWidgets</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Iterator-ve-Generatorler/Odevler/problem1-kareler.py" />
+        <option value="$PROJECT_DIR$/Iterator-ve-Generatorler/Odevler/t.py" />
+        <option value="$PROJECT_DIR$/Iterator-ve-Generatorler/Odevler/problem2-asal-generator.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/DateTime-Modulu/ornek1.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/test2.txt" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Os-Modulu.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Sys-Modulu.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/sys-argv-ornek.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/request-beautifulSoup-Modulu.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/request-beautifulsoup-modulu.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Request-beautifulSoup-Modulu/imdb-yedek.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Request-beautifulSoup-Modulu/json-yedek.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Request-beautifulSoup-Modulu/json-dovizuygulamasi.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/pillow_modulu.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Pıllow-Modulu-Resim-Islemleri/pillow-Modulu.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje1-Os-Modulu/MP4-Dosyalari.txt" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje1-Os-Modulu/PDF-Dosyalari.txt" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje1-Os-Modulu/TXT-Dosyalari.txt" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje1-Os-Modulu/dosya_bul.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje3-Doviz/cop" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje3-Doviz/doviz_request.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/genel.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje2-Mail-Gonder/mail_gonder.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje2-Mail-Gonder/mailler.txt" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders2-pencereye-yazi-resim-ekleme.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders3-buton-olusturma.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders4-horizantal-ve-Vertical-Box-Layout-Olusturma.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders5-Butonlara-Fonksiyonel-Ozellik-Kazandirma.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders6-Qlinedit-olusturma-Input-Alanlari.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders7-Kullanici-Girisi/kullanici_girisi.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-Kullanici-Kayit/kullanici_kayit.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders7-Checkbox-Kullanimi.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders8-RadioButton-kullanimi.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders9-TextEdit-Kullanimi.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders10-Menu -Olusturma.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Smtp-Modulu-Mail-Gonderme/Mail-Gonderme.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/yedek.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/proje1-Doviz.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/proje1-DovizFarkli.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-doviz/doviz-hesaplama.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-mail/mail.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-fotograf-kirpma/fotograf-kirpma.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/lutfen/deneme.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/notepad.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Request-beautifulSoup-Modulu/imdb_top250.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-imdb/imdb.py" />
+        <option value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-imdb/imdb2.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem5/islem.py" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem5/sayilar.txt" />
+        <option value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Request-beautifulSoup-Modulu/request-beautifulSoup-Modulu.py" />
+        <option value="$PROJECT_DIR$/bos.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1919" />
+    <option name="y" value="108" />
+    <option name="width" value="1368" />
+    <option name="height" value="730" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kodlama-Egzersizleri" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kodlama-Egzersizleri" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kodlama-Egzersizleri" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kodlama-Egzersizleri" type="462c0819:PsiDirectoryNode" />
+              <item name="Ileri-Seviye-Moduller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kodlama-Egzersizleri" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kodlama-Egzersizleri" type="462c0819:PsiDirectoryNode" />
+              <item name="Ileri-Seviye-Moduller" type="462c0819:PsiDirectoryNode" />
+              <item name="Uygulama" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kodlama-Egzersizleri" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kodlama-Egzersizleri" type="462c0819:PsiDirectoryNode" />
+              <item name="Ileri-Seviye-Moduller" type="462c0819:PsiDirectoryNode" />
+              <item name="Uygulama" type="462c0819:PsiDirectoryNode" />
+              <item name="Request-beautifulSoup-Modulu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kodlama-Egzersizleri" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kodlama-Egzersizleri" type="462c0819:PsiDirectoryNode" />
+              <item name="Pyqt5-Arayuz-Gelistirme" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-imdb" />
+      <recent name="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler" />
+      <recent name="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/lutfen" />
+      <recent name="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Pıllow-Modulu-Resim-Islemleri" />
+      <recent name="$PROJECT_DIR$/fonksiyonlarin-ileri-seviye-ozellikleri-decoratorler/Uygulama/ic-ice-fonksiyonlar-args-kwargs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-mail" />
+      <recent name="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-doviz" />
+      <recent name="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler" />
+      <recent name="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama" />
+      <recent name="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Request-beautifulSoup-Modulu" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.bos">
+    <configuration name="bos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Kodlama Egzersizleri" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="doviz-hesaplama" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-doviz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Kodlama Egzersizleri" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-doviz/doviz-hesaplama.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="imdb2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-imdb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Kodlama Egzersizleri" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-imdb/imdb2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="imdb_top250" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Request-beautifulSoup-Modulu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Kodlama Egzersizleri" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Request-beautifulSoup-Modulu/imdb_top250.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="islem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Kodlama Egzersizleri" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem5/islem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.imdb2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.imdb_top250" />
+      <item index="2" class="java.lang.String" itemvalue="Python.doviz-hesaplama" />
+      <item index="3" class="java.lang.String" itemvalue="Python.islem" />
+      <item index="4" class="java.lang.String" itemvalue="Python.bos" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.bos" />
+        <item index="1" class="java.lang.String" itemvalue="Python.islem" />
+        <item index="2" class="java.lang.String" itemvalue="Python.imdb2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.doviz-hesaplama" />
+        <item index="4" class="java.lang.String" itemvalue="Python.imdb_top250" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1919" y="108" width="1368" height="730" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24772727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922536" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32686085" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4278169" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32686085" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22535211" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922536" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32686085" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24848485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32686085" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders8-RadioButton-kullanimi.py</url>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-doviz/doviz-hesaplama.py</url>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="58" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Uygulama/ileri-seviye-stringler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje3-Doviz/cop">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Os-Modulu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje3-Doviz/doviz_request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje1-Os-Modulu/PDF-Dosyalari.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje2-Mail-Gonder/mail_gonder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="47" column="56" lean-forward="false" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje2-Mail-Gonder/mailler.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders3-buton-olusturma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders4-horizantal-ve-Vertical-Box-Layout-Olusturma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders5-Butonlara-Fonksiyonel-Ozellik-Kazandirma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders7-Kullanici-Girisi/kullanici_girisi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sqlite-Veritabani/Uygulama/sqlite-tablo-veri-ekleme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders7-Checkbox-Kullanimi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="49" lean-forward="false" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dosya-Islemleri/Ornekler/not_hesaplama/not_hesaplama.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dosya-Islemleri/Ornekler/not_hesaplama/dosya.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dosya-Islemleri/Uygulama/Dosya-okuma-yontemleri/dosya-okuma-islemleri.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dosya-Islemleri/Uygulama/Dosyalarda-kullanilan-fonksiyonlar/with-open-yontermi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Moduller/Odevler/Proje1-Os-Modulu/dosya_bul.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="59" lean-forward="false" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dosya-Islemleri/Uygulama/dosya-acma-yazdirma-islemleri.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/lutfen/deneme.ui" />
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders10-Menu -Olusturma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/yedek.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="10" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sqlite-Veritabani/Odevler/proje2-sarki/sarki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-844">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/proje1-Doviz.py" />
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-doviz/proje1-DovizFarkli.py" />
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-Kullanici-Kayit/kullanici_kayit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders6-Qlinedit-olusturma-Input-Alanlari.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="40" column="18" lean-forward="true" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/DateTime-Modulu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders8-RadioButton-kullanimi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="11" column="44" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-mail/gmail.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders1-pencere-olusturma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders9-TextEdit-Kullanimi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Smtp-Modulu-Mail-Gonderme/Mail-Gonderme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="59" lean-forward="true" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Pıllow-Modulu-Resim-Islemleri/pillow-Modulu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="49" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Request-beautifulSoup-Modulu/json-dovizuygulamasi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/ders2-pencereye-yazi-resim-ekleme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-fotograf-kirpma/fotograf-kirpma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-mail/mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="67" column="52" lean-forward="false" selection-start-line="67" selection-start-column="52" selection-end-line="67" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/lutfen/deneme.py" />
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Uygulama/notepad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="67" column="19" lean-forward="false" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-imdb/imdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-doviz/doviz-hesaplama.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="45" column="36" lean-forward="false" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pyqt5-Arayuz-Gelistirme/Odevler/odev-imdb/imdb2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Uygulama/ileri-seviye-listeler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Uygulama/ileri-seviye-kumeler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1520">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dosya-Islemleri/Odevler/proje2-futbolcular/futbolcu_listele.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Request-beautifulSoup-Modulu/request-beautifulSoup-Modulu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="58" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem5/islem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Moduller/Uygulama/Request-beautifulSoup-Modulu/imdb_top250.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="20" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ileri-Seviye-Veri-Yapilari-ve-Objeler/Odevler/problem5/sayilar.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,212 @@
+Tüm PDF Dosyaları
+
+Dosyanın Adı:Vize.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Veri-Madenciligi
+*******************
+Dosyanın Adı:25-09-2017-tarihli-ders-notu.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Veri-Madenciligi/EcirHoca
+*******************
+Dosyanın Adı:23-10-2017-tarihli-ders-notu.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Veri-Madenciligi/EcirHoca
+*******************
+Dosyanın Adı:02-10-2017-tarihli-ders-notu.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Veri-Madenciligi/EcirHoca
+*******************
+Dosyanın Adı:16-10-2017-tarihli-ders-notu.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Veri-Madenciligi/EcirHoca
+*******************
+Dosyanın Adı:CalismaProgrami.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Ekstralar/Sinavlar
+*******************
+Dosyanın Adı:Sinav-Programi.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Ekstralar/Sinavlar
+*******************
+Dosyanın Adı:2017-2018_guzdersprogrami_1ogr-05102017.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Ekstralar/Sinavlar
+*******************
+Dosyanın Adı:week06.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Ekstralar/Sistem-Programlama
+*******************
+Dosyanın Adı:week07.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Ekstralar/Sistem-Programlama
+*******************
+Dosyanın Adı:week08.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Ekstralar/Sistem-Programlama
+*******************
+Dosyanın Adı:week05-2.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Ekstralar/Sistem-Programlama
+*******************
+Dosyanın Adı:mikroislemciler-ornek-00-ve-02-baglantilari.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Mikro-Islemciler
+*******************
+Dosyanın Adı:Atmel-2560-Datasheet.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Mikro-Islemciler
+*******************
+Dosyanın Adı:BIL-301-Mikroislemciler-DersPlani.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Mikro-Islemciler
+*******************
+Dosyanın Adı:Mikro-Bilgilendirme-ve-MalzListesi-I-II.Ogr.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Mikro-Islemciler
+*******************
+Dosyanın Adı:OdevGruplariHakkinda.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Mikro-Islemciler
+*******************
+Dosyanın Adı:Atmel-0856-AVR-Instruction-Set-Manual.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Mikro-Islemciler
+*******************
+Dosyanın Adı:MikroUygulamaOdevi-1.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Mikro-Islemciler
+*******************
+Dosyanın Adı:Mikroislemciler-DersNotu-01.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Mikro-Islemciler
+*******************
+Dosyanın Adı:MikroişlemcilerTümNotlar.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Mikro-Islemciler/Vize
+*******************
+Dosyanın Adı:Grammar Test-1.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Mesleki-Yabanci-Dil/test
+*******************
+Dosyanın Adı:Grammer Test-2.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Mesleki-Yabanci-Dil/test
+*******************
+Dosyanın Adı:Mesleki-Yabi-Dİl-Kelimeler.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Mesleki-Yabanci-Dil/kelimeler
+*******************
+Dosyanın Adı:MIS_eng_makale_5.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri
+*******************
+Dosyanın Adı:VIZE-YOK-MGI-Briefing-Note-Automation-final.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri
+*******************
+Dosyanın Adı:VIZE-YOK-AI_information_sys_eng_makale.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri
+*******************
+Dosyanın Adı:VIZE-YOK-MIS_eng_makale_4.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri
+*******************
+Dosyanın Adı:BigDataAnalytics2016.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri
+*******************
+Dosyanın Adı:AI_eng_makale_decision_systems_FL_ANN.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri
+*******************
+Dosyanın Adı:VIZE-YOK-Process_mining_eng_makale_3.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri
+*******************
+Dosyanın Adı:VIZE-YOK-AI_intelligent_business.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri
+*******************
+Dosyanın Adı:VIZE-YOK-GE-Healthcare-White-Paper_FINAL.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri
+*******************
+Dosyanın Adı:MIS_eng_makale_1.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri
+*******************
+Dosyanın Adı:MIS_eng_not_193_syf.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri
+*******************
+Dosyanın Adı:VIZE-YOK-Process_mining_eng_makale_2.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri
+*******************
+Dosyanın Adı:IstUniv_MIS_93_slide.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri
+*******************
+Dosyanın Adı:IstTicUniv_MIS_503_slide.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri
+*******************
+Dosyanın Adı:VIZE-YOK-big-data-cloud-technologies-brief.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri
+*******************
+Dosyanın Adı:MIS_eng_makale_2.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri
+*******************
+Dosyanın Adı:YBS & YZ.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri/Vize
+*******************
+Dosyanın Adı:Vize1.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Yonetim-Bilisim-Sistemleri/Vize
+*******************
+Dosyanın Adı:ReactWeek01.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Internet-Programlama
+*******************
+Dosyanın Adı:GercekZamanliSistemlerVize.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler
+*******************
+Dosyanın Adı:Arduino_Hafta2.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler
+*******************
+Dosyanın Adı:GZS_ProjeOdevi_Duyuru_22102017_V1.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler
+*******************
+Dosyanın Adı:Arduino_Uygulama_Duyuru_16102017.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler
+*******************
+Dosyanın Adı:veri-yapilari-hakan-kutucu.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Veri-Yapilari
+*******************
+Dosyanın Adı:1.Hafta_Notasyon_OGR.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Veri-Yapilari
+*******************
+Dosyanın Adı:hafta6.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Veri-Yapilari
+*******************
+Dosyanın Adı:Bölüm-6.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Veri-Iletisimi
+*******************
+Dosyanın Adı:kablosuz_iletişimin_temelleri.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Veri-Iletisimi
+*******************
+Dosyanın Adı:1411012040-AliOgulcanGumussoyOdev2.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Veri-Iletisimi/Odevler/Odev2
+*******************
+Dosyanın Adı:1411012040-AliOgulcanGumussoy-Odev3.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Veri-Iletisimi/Odevler/Odev3
+*******************
+Dosyanın Adı:1411012040-AliOgulcanGumussoy-Odev1.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Veri-Iletisimi/Odevler/Odev1
+*******************
+Dosyanın Adı:TubitakCikti.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Tasarım-I
+*******************
+Dosyanın Adı:ali.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Tasarım-I
+*******************
+Dosyanın Adı:GokhanAlkanCV.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Tasarım-I/TubitakBasvuruBelgeleri
+*******************
+Dosyanın Adı:Referans Mektubu.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Tasarım-I/TubitakBasvuruBelgeleri
+*******************
+Dosyanın Adı:OgulcanGumussoyCV.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Tasarım-I/TubitakBasvuruBelgeleri
+*******************
+Dosyanın Adı:GokhanAlkanTranskript.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Tasarım-I/TubitakBasvuruBelgeleri
+*******************
+Dosyanın Adı:BolumOnay.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Tasarım-I/TubitakBasvuruBelgeleri
+*******************
+Dosyanın Adı:CalismaPlani.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Tasarım-I/TubitakBasvuruBelgeleri
+*******************
+Dosyanın Adı:TubitakBasvuruFormu.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Tasarım-I/TubitakBasvuruBelgeleri
+*******************
+Dosyanın Adı:OgulcanGumussoyTranskript.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Tasarım-I/TubitakBasvuruBelgeleri
+*******************
+Dosyanın Adı:TubitakBasvuruFormu.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Tasarım-I/Sunum
+*******************
+Dosyanın Adı:destek-almis-2209a-377.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Tasarım-I/Sunum
+*******************
+Dosyanın Adı:ADEM AYDIN TÜBİTAK PROJESİ.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Tasarım-I/Sunum
+*******************
+Dosyanın Adı:destek-almis-2209a-377.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Tasarım-I/BasvuruSartlari
+*******************
+Dosyanın Adı:C214MRO2209-sunum-proje-basliklari.pdf
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Tasarım-I/BasvuruSartlari
+*******************

@@ -1,0 +1,182 @@
+Tüm TXT Dosyalar
+
+Dosyanın Adı:dosya.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Ekstralar/UDEMY/Sifirdan-Ileri-Seviyeye-Python-Programlama-master/Dosya İşlemleri/Kodlama Egzersizleri
+*******************
+Dosyanın Adı:fb.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Ekstralar/UDEMY/Sifirdan-Ileri-Seviyeye-Python-Programlama-master/Dosya İşlemleri/Dosya İşlemleri  - Ödev ve Çözümleri
+*******************
+Dosyanın Adı:futbolcular.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Ekstralar/UDEMY/Sifirdan-Ileri-Seviyeye-Python-Programlama-master/Dosya İşlemleri/Dosya İşlemleri  - Ödev ve Çözümleri
+*******************
+Dosyanın Adı:gs.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Ekstralar/UDEMY/Sifirdan-Ileri-Seviyeye-Python-Programlama-master/Dosya İşlemleri/Dosya İşlemleri  - Ödev ve Çözümleri
+*******************
+Dosyanın Adı:bjk.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Ekstralar/UDEMY/Sifirdan-Ileri-Seviyeye-Python-Programlama-master/Dosya İşlemleri/Dosya İşlemleri  - Ödev ve Çözümleri
+*******************
+Dosyanın Adı:metin.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Ekstralar/UDEMY/Sifirdan-Ileri-Seviyeye-Python-Programlama-master/İleri Seviye Veri Yapıları ve Objeler/Kodlama Egzersizleri
+*******************
+Dosyanın Adı:şiir.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Ekstralar/UDEMY/Sifirdan-Ileri-Seviyeye-Python-Programlama-master/İleri Seviye Veri Yapıları ve Objeler/İleri Seviye Veri Yapıları ve Objeler - Ödev ve Çözümleri
+*******************
+Dosyanın Adı:mailler.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Ekstralar/UDEMY/Sifirdan-Ileri-Seviyeye-Python-Programlama-master/İleri Seviye Veri Yapıları ve Objeler/İleri Seviye Veri Yapıları ve Objeler - Ödev ve Çözümleri
+*******************
+Dosyanın Adı:const_01.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:zaman_01.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:If_04.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:If_02.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:string_05.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:If_03.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:for_05.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:doWhile_02.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:doWhile_04.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:If_05.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:string_08.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:string_06.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:string_11.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:trigonometri_01.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:rastgele_02.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:for_01.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:Case_01.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:string_02.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:string_04.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:for_02.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:doWhile_03.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:Case_03.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:for_03.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:doWhile_05.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:string_07.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:math_01.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:Case_02.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:If_01.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:string_03.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:doWhile_01.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:rastgele_01.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:string_10.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:string_01.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:for_06.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:string_09.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:string_12.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:for_04.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta4_ArduinoKodlar
+*******************
+Dosyanın Adı:1.int_2.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta3_ArduinoKodlar
+*******************
+Dosyanın Adı:1.int.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta3_ArduinoKodlar
+*******************
+Dosyanın Adı:8.float.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta3_ArduinoKodlar
+*******************
+Dosyanın Adı:1.int_3.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta3_ArduinoKodlar
+*******************
+Dosyanın Adı:6.String.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta3_ArduinoKodlar
+*******************
+Dosyanın Adı:8.float_2.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta3_ArduinoKodlar
+*******************
+Dosyanın Adı:9.array_2.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta3_ArduinoKodlar
+*******************
+Dosyanın Adı:10.modAlma.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta3_ArduinoKodlar
+*******************
+Dosyanın Adı:7.long.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta3_ArduinoKodlar
+*******************
+Dosyanın Adı:5.String.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta3_ArduinoKodlar
+*******************
+Dosyanın Adı:9.array.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta3_ArduinoKodlar
+*******************
+Dosyanın Adı:4.String.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta3_ArduinoKodlar
+*******************
+Dosyanın Adı:2.0.Char.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta3_ArduinoKodlar
+*******************
+Dosyanın Adı:2.String.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta3_ArduinoKodlar
+*******************
+Dosyanın Adı:3.String.txt
+Bulunduğu Dizin:/home/ogulcan/Desktop/DERS NOTLARIM/Gercek-Zamanli-Sistemler/DersteIslenenler/Hafta3_ArduinoKodlar
+*******************
